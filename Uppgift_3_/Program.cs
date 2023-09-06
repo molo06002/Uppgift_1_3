@@ -6,10 +6,10 @@ namespace uppgift1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\"   /\"\"");
-            Console.WriteLine("\"  /  \"\"");
-            Console.WriteLine("\" /    \"\"");
-            Console.WriteLine("\"/______\"\"");
+            Console.WriteLine("\"   /\\");
+            Console.WriteLine("\"  /  \\");
+            Console.WriteLine("\" /    \\");
+            Console.WriteLine("\"/______\\");
         }
     }
 }
